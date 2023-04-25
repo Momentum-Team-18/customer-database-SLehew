@@ -1,0 +1,22 @@
+.customerProfiles {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: aqua;
+}
+
+/* .customerCard {
+    flex-wrap: nowrap;
+    text-align: center;
+    border: solid 2px black;
+    justify-content: center;
+    align-items: center;
+    flex: 1 1 auto;
+    width: fit-content;
+} */
+
+.custImage {
+    width: 50%;
+    height: 50%;
+    border-radius: 60px;
+    
+}
